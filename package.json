@@ -1,0 +1,13 @@
+{
+  "name": "dunkelmodus-webapp",
+  "version": "1.0.0",
+  "description": "Eine Webanwendung zur Erstellung eines benutzerdefinierten Dunkelmodus.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite index.html"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "license": "MIT"
+}

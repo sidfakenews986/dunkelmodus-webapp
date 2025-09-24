@@ -7,7 +7,7 @@
     "start": "lite index.html"
   },
   "dependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.2"
   },
   "license": "MIT"
 }
